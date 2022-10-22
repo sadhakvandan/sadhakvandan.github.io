@@ -1,5 +1,5 @@
 body {
-  background-color: #f1f1f1;
+  background-color: #666d69;
   font-family: 'Montserrat', sans-serif;
 }
 .card {
@@ -9,7 +9,7 @@ body {
     max-width: 500px;
     width: 100%;
     text-align: center;
-    background-color: #fff;
+    background-color: #666d69;
     border-radius: 12px;
     box-shadow: 0 10px 10px -5px #909090;
     position: absolute;
@@ -19,5 +19,5 @@ body {
 }
 
 #countdown {
-  font-size: 48px;
+  font-size: 72px;
 }

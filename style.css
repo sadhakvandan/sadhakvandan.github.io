@@ -4,6 +4,7 @@ body {
 }
 .card {
     margin: 0 auto;
+    color: #fff;
     padding: 50px;
     display: block;
     max-width: 500px;
@@ -11,7 +12,6 @@ body {
     text-align: center;
     background-color: #666d69;
     border-radius: 12px;
-    box-shadow: 0 10px 10px -5px #909090;
     position: absolute;
     top: 50%;
     left: 50%;

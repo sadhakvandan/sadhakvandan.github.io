@@ -13,7 +13,7 @@ timeInSecs--;
 }
 else {
 clearInterval(ticker);
-startTimer((4*60)+22); // 4 minutes in seconds
+startTimer((5*60)+22); // 4 minutes in seconds
 }
 
 var days= Math.floor(secs/86400); 
@@ -27,6 +27,6 @@ var pretty = ( (mins < 10) ? "0" : "" ) + mins + ":" + ( (secs < 10) ? "0" : "" 
 document.getElementById("countdown").innerHTML = pretty;
 }
 
-startTimer((4*60)+22); // 4 minutes in seconds
+startTimer((5*60)+22); // 4 minutes in seconds
 
 //Credits to Philip M from codingforum
